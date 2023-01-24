@@ -34,4 +34,9 @@ https://play.google.com/store/apps/details?id=marto.rtl_tcp_andro&hl=en&gl=US
 2. you need to install RTL SDR driver <br>
 you need to install: https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer&hl=en&gl=US&pli=1
 
+How to use for Android: <br>
+1. plug the SDR with OTG adaptor depend to your android mobile is Type C or Micro USB <br>
+2. run the sdr driver (or sometimes run automatically)
+3. run the RF analyzer, then set the frequency that you want to analyze
+
 
