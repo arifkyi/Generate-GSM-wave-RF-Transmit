@@ -3,7 +3,7 @@ This repository is only hints for the installation
 first you just need to use in the Ubuntu,and android
 
 
-* Ubuntu *
+<b> Ubuntu </b> 
 we use version 18
 
 <b>run this command below to make update and installation</b>
