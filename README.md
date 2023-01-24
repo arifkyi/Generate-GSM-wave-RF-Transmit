@@ -1,8 +1,10 @@
 # Generate-GSM-wave-RF-Transmit
 This repository is only hints for the installation
-Firt you just need to use the Ubuntu, me my self use Ubuntu 18
+first you just need to use in the Ubuntu,and android
 
-and 
+
+* Ubuntu *
+we use version 18
 
 <b>run this command below to make update and installation</b>
 
