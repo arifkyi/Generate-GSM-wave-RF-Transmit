@@ -2,7 +2,9 @@
 This repository is only hints for the installation
 Firt you just need to use the Ubuntu, me my self use Ubuntu 18
 
-and run this command below to make update and installation
+and 
+
+<b>run this command below to make update and installation</b>
 
 sudo apt-get update && \
 sudo apt-get install -y \
