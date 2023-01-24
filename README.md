@@ -2,8 +2,7 @@
 This repository is only hints for the installation
 first you just need to use in the Ubuntu,and android
 
-
-<b> Ubuntu </b> 
+<b> Ubuntu  :</b> 
 we use version 18
 
 <b>run this command below to make update and installation</b>
@@ -25,3 +24,14 @@ sudo apt-get install -y \
     gnuradio-dev \
     gr-osmosdr \
     libosmocore-dev
+
+
+<b> for Android </b>
+
+1. you need to install the RTL SDR driver: <br>
+https://play.google.com/store/apps/details?id=marto.rtl_tcp_andro&hl=en&gl=US
+
+2. you need to install RTL SDR driver <br>
+you need to install: https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer&hl=en&gl=US&pli=1
+
+
