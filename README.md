@@ -31,10 +31,10 @@ sudo apt-get install -y \\ <br>
 
 <b> for Android </b>
 
-1. you need to install the RTL SDR driver from playstore: <br>
+1. you need to install the <b> RTL SDR driver </b> from playstore: <br>
 https://play.google.com/store/apps/details?id=marto.rtl_tcp_andro&hl=en&gl=US
 
-2. you need to install RF Analyzer from playstore <br>
+2. you need to install <b> RF Analyzer </b> from playstore <br>
 you need to install: https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer&hl=en&gl=US&pli=1
 
 How to use for Android: <br>
