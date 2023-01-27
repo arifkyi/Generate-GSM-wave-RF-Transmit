@@ -7,22 +7,22 @@ we use version 18
 
 <b>run this command below to make update and installation</b>
 
-sudo apt-get update && \\
-sudo apt-get install -y \\
-    cmake \\
-    autoconf \\
-    libtool \\
-    pkg-config \\
-    build-essential \\
-    python-docutils \\
-    libcppunit-dev \\
-    swig \\
-    doxygen \\
-    liblog4cpp5-dev \\
-    python-scipy \\
-    python-gtk2 \\
-    gnuradio-dev \\
-    gr-osmosdr \\
+sudo apt-get update && \\ <br>
+sudo apt-get install -y \\ <br>
+    cmake \\ <br>
+    autoconf \\ <br>
+    libtool \\ <br>
+    pkg-config \\ <br>
+    build-essential \\ <br>
+    python-docutils \\ <br>
+    libcppunit-dev \\ <br>
+    swig \\ <br>
+    doxygen \\ <br>
+    liblog4cpp5-dev \\ <br>
+    python-scipy \\ <br>
+    python-gtk2 \\ <br>
+    gnuradio-dev \\ <br>
+    gr-osmosdr \\ <br>
     libosmocore-dev
 
 
