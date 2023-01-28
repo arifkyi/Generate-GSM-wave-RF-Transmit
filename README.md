@@ -1,6 +1,6 @@
 # Generate-GSM-wave-RF-Transmit
 This repository is only hints for the installation
-first you just need to use in the Linux,and android
+first you just need to use in the Linux,and android <br>
 as the guidance from YT channel "Rifky The Cyber" : https://www.youtube.com/watch?v=btQcb22tipA <br>
 
 
